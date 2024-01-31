@@ -1,2 +1,2 @@
 # Calculadora-IMC
- Projeto Calculadora IMC
+Projeto calculadora IMC
